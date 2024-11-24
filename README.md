@@ -11,6 +11,6 @@ If you see me fighting a bear, help the bear!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikBlazic&theme=aura&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikBlazic&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Knedel&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
